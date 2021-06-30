@@ -1,0 +1,18 @@
+.product-image-list {
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border: 3px solid #3f51b5;
+}
+
+.product-info-list {
+    padding-left: 100px;
+}
+
+.product-qtd-field-list {
+    input{
+        height: 15px;
+        width: 120px;
+    }
+}
